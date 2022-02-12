@@ -1,0 +1,1 @@
+{"error":{"error_code":5,"error_msg":"User authorization failed: invalid session.","request_params":[{"key":"v","value":"5.52"},{"key":"method","value":"status.get"},{"key":"oauth","value":"1"}]}}
